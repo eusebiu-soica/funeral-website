@@ -62,6 +62,10 @@
   font-weight: 500;
 }
 
+.meniu a:hover {
+  color: #b4b4b4;
+}
+
 .texte {
   /* background-color: chartreuse; */
   height: 65%;
@@ -127,6 +131,10 @@
   color: #282828;
 }
 
+.contacte a:hover {
+  color: #444444;
+}
+
 .contacte a {
   text-decoration: none;
   color: #282828;
@@ -152,10 +160,10 @@
 .text {
   /* background-color: burlywood; */
   font-size: 18px;
-  width: 80%;
+  width: 70%;
   padding: 4% 0 0 0;
   position: relative;
-  left: 10%;
+  left: 15%;
   color: #e1e1e1;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
@@ -281,6 +289,10 @@
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 20px;
+}
+
+.telefon a:hover {
+  color: #d1d1d1;
 }
 
 .date-contact-box i {
