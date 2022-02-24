@@ -286,7 +286,7 @@
 .date-contact-box i {
   font-size: 24px;
   position: relative;
-  right: 4%;
+  right: 5%;
 }
 
 .date-contact-box a {
@@ -338,7 +338,7 @@
   }
 
   .desktop2 {
-    padding-top: 15%;
+    padding: 15% 3% 15% 3%;
   }
 
   .text {
@@ -356,6 +356,24 @@
   .date-contact {
     flex-direction: column;
   }
+  .date-contact-box {
+    margin-bottom: 10%;
+  }
+
+  .map {
+    margin-bottom: 10%;
+  }
+
+  .telefon,
+  .ora,
+  .locatie {
+    font-size: 16px;
+  }
+
+  .date-contact-box i {
+    font-size: 20px;
+    right: 6%;
+  }
 
   .map {
     width: 100%;
@@ -363,6 +381,10 @@
 
   #map {
     width: 100%;
+  }
+
+  .footer {
+    font-size: 12px;
   }
 }
 
