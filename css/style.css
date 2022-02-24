@@ -323,7 +323,7 @@
 /* ----------------------- MEDIA QUERRY -----------------------*/
 @media (max-width: 600px) {
   .desktop1 {
-    height: 850px;
+    height: 790px;
     background-image: url("../img/background2.jpg");
     background-size: 100% 850px;
   }
@@ -355,7 +355,7 @@
   }
 
   .contacte {
-    top: 8%;
+    top: 4%;
   }
 
   .desktop2 {
