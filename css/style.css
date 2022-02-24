@@ -323,7 +323,9 @@
 /* ----------------------- MEDIA QUERRY -----------------------*/
 @media (max-width: 600px) {
   .desktop1 {
-    height: 800px;
+    height: 850px;
+    background-image: url("../img/background2.jpg");
+    background-size: 100% 850px;
   }
   .logo {
     width: 80px;
