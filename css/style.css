@@ -330,6 +330,7 @@
   .descriere {
     width: 100%;
     font-size: 16px;
+    margin-top: -30px;
   }
 
   .contacte {
@@ -344,6 +345,7 @@
     width: 90%;
     left: 5%;
     padding-top: 7%;
+    font-size: 16px;
   }
 
   .servicii {
